@@ -4,21 +4,13 @@
 
 int main(){
 
-int n[5000000];
-int i=0;
-int a=1;
+int n;
 int p=11;
 
-while(a){
-scanf("%d",&n[i]);
-if(n[i]<=0){
-    break;}
-i++;}
-
-for (int k=0;k<i;k++){
-    int digits_of_n=digit_calculator(n[k]);
+while (scanf("%d",&n)){
+    int digits_of_n=digit_calculator(n);
     while(p){
-    int intermediate=p*n[k];
+    int intermediate=p*n;
     if(digit_calculator(intermediate)==digits_of_n){
         printf("%d\n",p);
         p=11;

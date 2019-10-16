@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+main(){
+    int number_of_input,a,i,k,n;
+    n=0;
+
+    scanf("%d",&number_of_input);
+    a = number_of_input;
+    int temp [a-1];
+
+    for(i=0;i<=(a-1);i++){
+        scanf("%d",&temp[i]);
+    }
+    for (k=0;k<=(a-1);k++){
+        if (temp[k]<=-1){
+           n++;
+        }
+    }
+    printf("%d",n);
+
+}

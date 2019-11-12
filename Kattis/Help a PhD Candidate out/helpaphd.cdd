@@ -1,0 +1,38 @@
+#include <iostream>
+#include <vector>
+#include <string>
+
+using namespace std;
+
+int main(int argc, char **argv)
+{
+    int number_of_inputs {};
+    cin >> number_of_inputs;
+    vector <string> inputs(number_of_inputs);
+    
+    for (int i=0;i<number_of_inputs;i++){
+        cin >> inputs.at(i);
+    }
+    
+    
+    for (int i=0;i<number_of_inputs;i++){
+        if (inputs.at(i).at(0)=='P' || inputs.at(i).at(0)=='p'){
+            cout << "skipped" << endl;
+        }
+        else {
+            int myint1 = stoi(inputs.at(i));
+            int j=0;
+            while (inputs.at(i).at(j)){
+                if (inputs.at(i).at(j)=='+'){
+                    break;
+                }
+                j++;
+            }
+            inputs.at(i).erase(0,j);
+            int myint2= stoi(inputs.at(i));
+            cout << myint1 + myint2 << endl;
+        }
+    }
+    return 0;
+}
+

@@ -57,5 +57,5 @@ Kattis is a website that allows students to submit solutions to programming prob
  49. [The Easiest Problem is this One](https://github.com/ygzaydn/Kattis/tree/master/Kattis/The%20Easiest%20Problem%20Is%20This%20One)
  50. [Trik](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Trik)
  51. [Zamka](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Zamka)
- 
+ 52. [Lost Lineup](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Lost%20Lineup) 
  

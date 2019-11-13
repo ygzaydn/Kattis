@@ -1,4 +1,3 @@
-#                                                    Kattis
 ![alt text](http://cpc.cpsc.ucalgary.ca/img/logo-kattis.png)
 
 ## Solutions

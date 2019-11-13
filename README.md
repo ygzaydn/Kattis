@@ -1,6 +1,6 @@
-<center>![alt text](http://cpc.cpsc.ucalgary.ca/img/logo-kattis.png)</center>
+![alt text](http://cpc.cpsc.ucalgary.ca/img/logo-kattis.png)
 
-## <center>Solutions</center>
+<center>## Solutions</center>
 
 
  1. [Alphabet Spam](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Alphabet_Spam)

@@ -58,4 +58,5 @@ Kattis is a website that allows students to submit solutions to programming prob
  50. [Trik](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Trik)
  51. [Zamka](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Zamka)
  52. [Lost Lineup](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Lost%20Lineup) 
- 53. [Beavergnaw](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Beavergnaw) 
+ 53. [Beavergnaw](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Beavergnaw)
+ 54. [Herman](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Herman)

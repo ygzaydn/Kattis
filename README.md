@@ -60,3 +60,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  52. [Lost Lineup](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Lost%20Lineup) 
  53. [Beavergnaw](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Beavergnaw)
  54. [Herman](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Herman)
+ 55. [Different Distances](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Different%20Distances)

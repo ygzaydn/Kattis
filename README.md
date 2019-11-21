@@ -66,4 +66,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  56. [Basketball One-on-One](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Basketball%20One-on-One)
  57. [Job Expenses](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Job%20Expenses)
  58. [Some Sum](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Some%20Sum)
- 59. [Line Them Up)(https://github.com/ygzaydn/Kattis/tree/master/Kattis/Line%20Them%20Up)
+ 59. [Line Them Up](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Line%20Them%20Up)

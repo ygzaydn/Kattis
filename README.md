@@ -64,3 +64,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  54. [Herman](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Herman)
  55. [Different Distances](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Different%20Distances)
  56. [Basketball One-on-One](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Basketball%20One-on-One)
+ 57. [Job Expenses](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Job%20Expenses)

@@ -68,4 +68,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  58. [Some Sum](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Some%20Sum)
  59. [Line Them Up](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Line%20Them%20Up)
  60. [Mixed Fractions](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Mixed%20Fractions)
- 61. [Chanukah Challenge]((https://github.com/ygzaydn/Kattis/tree/master/Kattis/Chanukah%20Challenge)
+ 61. [Chanukah Challenge](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Chanukah%20Challenge)

@@ -71,3 +71,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  61. [Chanukah Challenge](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Chanukah%20Challenge)
  62. [Cudoviste](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Cudoviste)
  63. [Bela](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Bela)
+ 64. [Piece of Cake!]((https://github.com/ygzaydn/Kattis/tree/master/Kattis/Piece%20of%20Cake)

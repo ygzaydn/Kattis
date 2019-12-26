@@ -77,3 +77,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  67. [Odd Man Out](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Odd%20Man%20Out)
  68. [A Real Challenge](https://github.com/ygzaydn/Kattis/tree/master/Kattis/A%20Real%20Challenge)
  69. [Simon Says](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Simon%20Says)
+ 70. [No Duplicates](https://github.com/ygzaydn/Kattis/tree/master/Kattis/No%20Duplicates)

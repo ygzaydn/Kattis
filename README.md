@@ -80,3 +80,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  70. [No Duplicates](https://github.com/ygzaydn/Kattis/tree/master/Kattis/No%20Duplicates)
  71. [I've Been Everywhere, Man](https://github.com/ygzaydn/Kattis/tree/master/Kattis/I%20Have%20Been%20Everywhere,%20Man)
  72. [Heart Rate](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Heart%20Rate)
+ 73. [Railroad](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Railroad)

@@ -76,3 +76,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  66. [Reversed Binary Numbers](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Reversed%20Binary%20Numbers)
  67. [Odd Man Out](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Odd%20Man%20Out)
  68. [A Real Challenge](https://github.com/ygzaydn/Kattis/tree/master/Kattis/A%20Real%20Challenge)
+ 69. [Simon Says](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Simon%20Says)

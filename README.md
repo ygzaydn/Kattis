@@ -82,3 +82,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  72. [Heart Rate](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Heart%20Rate)
  73. [Railroad](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Railroad)
  74. [Dice Game](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Dice%20Game)
+ 75. [Soda Slurper](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Soda%Slurper)

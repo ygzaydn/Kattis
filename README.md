@@ -89,4 +89,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  79. [Quick Brown Fox](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Quick%20Brown%20Fox)
  80. [Prsteni](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Prsteni)
  81. [Pizza Crust](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Pizza%20Crust)
- 82. [Parking](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Parking_)
+ 82. [Parking](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Parking2)

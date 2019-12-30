@@ -85,3 +85,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  75. [Soda Slurper](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Soda%20Slurper)
  76. [Skocimis](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Skocimis)
  77. [Run-Length Encoding, Run!](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Run-Length%20Encoding%2C%20Run)
+ 78. [Parking](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Parking)

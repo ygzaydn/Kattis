@@ -93,3 +93,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  83. [Moscow Dream](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Moscow%20Dream)
  84. [Mjehuric](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Mjehuric)
  85. [Luhn's Checksum Algorithm](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Luhns%20Checksum%20Algorithm)
+ 86. [Left Beehind](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Left%20Beehind)

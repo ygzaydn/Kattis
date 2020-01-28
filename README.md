@@ -95,3 +95,4 @@ Kattis is a website that allows students to submit solutions to programming prob
  85. [Luhn's Checksum Algorithm](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Luhns%20Checksum%20Algorithm)
  86. [Left Beehind](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Left%20Beehind)
  87. [Just a Minute](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Just%20a%20Minute)
+ 88. [Identifying Map Tiles](https://github.com/ygzaydn/Kattis/tree/master/Kattis/Identfying%20Map%20Tiles)
